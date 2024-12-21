@@ -23,12 +23,12 @@ The program accepts the following command-line arguments:
 ### 3. Expected Output 
 
 The program accepts the following command-line arguments:
-`Child1 message
-Child1 message
-Child1 message
-Child2 message
-Child2 message
-Child2 message
-Parent message
-Parent message
+`Child1 message\n
+Child1 message\n
+Child1 message\n
+Child2 message\n
+Child2 message\n
+Child2 message\n
+Parent message\n
+Parent message\n
 Parent message`
