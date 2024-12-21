@@ -19,3 +19,16 @@ The program accepts the following command-line arguments:
 2. Child process 1 message
 3. Child process 2 message
 4. Number of writes per process
+
+### 3. Expected Output 
+
+The program accepts the following command-line arguments:
+`Child1 message
+Child1 message
+Child1 message
+Child2 message
+Child2 message
+Child2 message
+Parent message
+Parent message
+Parent message`
